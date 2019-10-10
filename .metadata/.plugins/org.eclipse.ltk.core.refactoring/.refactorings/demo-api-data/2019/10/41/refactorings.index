@@ -1,0 +1,19 @@
+1570614967127	Delete element
+1570614972894	Delete element
+1570615172836	Copy compilation unit
+1570615187304	Delete element
+1570615269033	Move compilation unit
+1570615405272	Rename package 'com.example.demo'
+1570615662698	Move compilation unit
+1570626911746	Copy compilation unit
+1570626926157	Delete element
+1570627088893	Rename package 'com.example.demoapidata'
+1570627168418	Move compilation unit
+1570627686409	Copy compilation unit
+1570627868505	Rename package 'com.example.demoapidata.start'
+1570627938578	Delete element
+1570628904516	Copy compilation units
+1570628918222	Rename type 'Topic'
+1570628934828	Rename type 'TopicController'
+1570628947476	Rename type 'TopicRepository'
+1570628962774	Rename type 'TopicService'

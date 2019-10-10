@@ -1,0 +1,23 @@
+package com.example.demo;
+
+import java.util.Arrays;
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+import org.springframework.web.bind.annotation.PathVariable;
+
+@Service
+public class TopicService {
+	
+	private List<Topic> topics  = Arrays.asList(new Topic("Spring","Spring Framework","For Students"),
+			new Topic("Java","Core Java","Core Java Description"),
+			new Topic("Javascript","Javascript","Details of Javascript"));
+	public List<Topic> getAllTopics() {
+		// TODO Auto-generated method stub
+		return topics;
+	}
+	public Topic getTopic(@PathVariable String id) {
+		return topics.stream().filter(t -> t.getId().equals(id)).findFirst().get();
+	}
+
+}
