@@ -6,11 +6,15 @@
 <item elementID="=demo-api-data/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=demo-api-data/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=demo-api-data/target\/generated-sources\/annotations" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=dependencyinjection/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=SpringAnnotations/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1570428749687_1" label="Java Test Sources" name="Java Test Sources">
 <item elementID="=demo/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=demo-api-data/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=demo-api-data/target\/generated-test-sources\/test-annotations" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=dependencyinjection/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=SpringAnnotations/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1570428751402_2" label="Window Working Set" name="Aggregate for window 1570428751402"/>
 </workingSetManager>
